@@ -1,6 +1,5 @@
-# Based on PyTorch Lightning Tutorial 13 -
-# SSL : https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/13-contrastive-learning.html
-# Modified by Fares Abawi (@fabawi).
+# Based on https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/13-contrastive-learning.html
+# Modified by Dan Zhao and Fares Abawi
 import logging
 import os
 import argparse
